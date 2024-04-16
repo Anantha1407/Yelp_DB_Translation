@@ -1,8 +1,9 @@
 "# Yelp_DB_Translation" 
 
 Team Details:
-Anantha Narayanan Sampath Varadharajan (G46252520)
-Pranav Parthasarathy (G25917423)
+Anantha Narayanan Sampath Varadharajan (G46252520) - Anantha1407
+
+Pranav Parthasarathy (G25917423) - Pranav P
 
 Project:
 For our project, my teammate and I are tasked with translating Yelp's JSON dataset into 
